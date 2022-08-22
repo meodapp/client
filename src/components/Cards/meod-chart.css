@@ -1,0 +1,15 @@
+.highcharts-graph.highcharts-negative {
+    stroke: red;
+}
+
+.highcharts-area.highcharts-negative {
+    fill: red;
+}
+
+.highcharts-point.highcharts-negative {
+    fill: red;
+}
+
+.capitalized {
+    text-transform: capitalize;
+}
